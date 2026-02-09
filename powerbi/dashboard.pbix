@@ -1,0 +1,17 @@
+Create visuals:
+
+Bar Chart
+Axis: Category
+Values: Sales
+
+Pie Chart
+Legend: Region
+Values: Profit
+
+Line Chart
+Axis: Order Date
+Values: Sales
+
+Table
+Product Name
+Sales
